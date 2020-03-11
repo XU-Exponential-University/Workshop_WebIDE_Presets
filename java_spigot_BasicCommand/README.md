@@ -6,7 +6,7 @@ Dieses Devfile dient der Erstellung einer Entwicklungsumgebung mit Eclipse Che.
 
 Metadaten des Projektes für die Darstellung in Che
 
-**ame**: Name des Workspaces in Che
+**name**: Name des Workspaces in Che
 
 ## Projects
 
