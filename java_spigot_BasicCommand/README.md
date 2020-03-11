@@ -60,8 +60,8 @@ Umgebungsvariablen für den Docker-Container
 
 Aktionen die von dem Command ausgeführt werden
 
-**workdir**: In welchem Ordner der Command ausgeführt werden soll
-**type**: `exec`
-**component**: Component in dem der Befehl ausgeführt wird
-**command**: Der Befehl selbst
+**workdir**: In welchem Ordner der Command ausgeführt werden soll  
+**type**: `exec`  
+**component**: Component in dem der Befehl ausgeführt wird  
+**command**: Der Befehl selbst  
 
