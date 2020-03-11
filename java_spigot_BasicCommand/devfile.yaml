@@ -1,5 +1,5 @@
 metadata:
-  name: java-maven4gl97
+  name: xu-plugin
 projects:
   - name: DeinPlugin
     source:
